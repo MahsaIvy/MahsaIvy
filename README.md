@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mahsa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
 - 📫 How to reach me mahssaghanbari@gmail.com
